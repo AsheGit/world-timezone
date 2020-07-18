@@ -32,13 +32,13 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment> 
-			     <muleVersion>4.3.0</muleVersion> 
 	         	 <username>ashjuly</username> 
-	             <password>AshJuly7</password> 
-	             <applicationName>z-time-zone</applicationName>
-	             <environment>Sandbox</environment> 
+	         	 <environment>Sandbox</environment> 
+	         	 <workers>1</workers>
 	             <workerType>Micro</workerType>
-	             <workers>1</workers>
+	             <applicationName>z-time-zone</applicationName>
+	             <password>AshJuly7</password> 
+	             <muleVersion>4.3.0</muleVersion> 
 	             </cloudHubDeployment>
 				<classifier>mule-application</classifier>
                 </configuration>
