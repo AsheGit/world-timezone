@@ -32,11 +32,12 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment> 
+				<uri>https://anypoint.mulesoft.com</uri>
 	         	 <username>ashjuly</username> 
 	         	 <environment>Sandbox</environment> 
 	         	 <workers>1</workers>
 	             <workerType>Micro</workerType>
-	             <applicationName>z-time-zone</applicationName>
+	             <applicationName>world-timezone</applicationName>
 	             <password>AshJuly7</password> 
 	             <muleVersion>4.3.0</muleVersion> 
 	             </cloudHubDeployment>
