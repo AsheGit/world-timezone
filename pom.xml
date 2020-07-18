@@ -35,7 +35,7 @@
 			     <muleVersion>4.3.0</muleVersion> 
 	         	 <username>ashjuly</username> 
 	             <password>AshJuly7</password> 
-	             <applicationName>world-time-zone</applicationName>
+	             <applicationName>z-time-zone</applicationName>
 	             <environment>Sandbox</environment> 
 	             <workerType>Micro</workerType>
 	             <workers>1</workers>
