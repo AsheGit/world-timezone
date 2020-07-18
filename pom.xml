@@ -33,12 +33,12 @@
 				<configuration>
 				<cloudHubDeployment> 
 			     <muleVersion>4.3.0</muleVersion> 
-	         	 <username>${anypoint.username}</username> 
-	             <password>${anypoint.password}</password> 
+	         	 <username>ashjuly</username> 
+	             <password>AshJuly7</password> 
 	             <applicationName>world-time-zone</applicationName>
-	             <environment>${cloundhub.env}</environment> 
-	             <workerType>${cloudhub.workerType}</workerType>
-	             <workers>${cloudhub.workers}</workers>
+	             <environment>Sandbox</environment> 
+	             <workerType>Micro</workerType>
+	             <workers>1</workers>
 	             </cloudHubDeployment>
 				<classifier>mule-application</classifier>
                 </configuration>
