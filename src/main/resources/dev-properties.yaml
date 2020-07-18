@@ -1,0 +1,11 @@
+mule:
+  version: "4.3.0"
+anypoint: 
+  username: "ashjuly"
+  password: "AshJuly7"
+cloudhub:
+  env: "Sandbox"
+  workerType: "Micro"
+  workers: "1"
+
+ 
