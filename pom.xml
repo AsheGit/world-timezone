@@ -32,7 +32,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubDeployment> 
-			     <muleVersion>${mule.version}</muleVersion> 
+			     <muleVersion>4.3.0</muleVersion> 
 	         	 <username>${anypoint.username}</username> 
 	             <password>${anypoint.password}</password> 
 	             <applicationName>world-time-zone</applicationName>
